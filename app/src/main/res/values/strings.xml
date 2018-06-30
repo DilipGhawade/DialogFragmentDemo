@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">DialogFragmentDemo</string>
+  <string name="do_you_want_to_close_app">Do You want to Close App ?</string>
+  <string name="exit">Exit</string>
+  <string name="ok">Ok</string>
+  <string name="show_dialog">Show Dialog!</string>
+</resources>
